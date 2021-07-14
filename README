@@ -7,6 +7,7 @@ Description: Practice Angular based project to implement Observables, Monorepo, 
     * Search functionality, separated by platform and further by show (specific episode will be noted and link will go there)
     * Ability to archive/unarchive completed shows manually (seperate section for watch history)
     * Ability to add, remove, edit items on the Queue. Lookup media titles on MAL, IMDB, or specific platform? When adding a show maybe need to identify platform first
+    *Media data? - https://www.kaggle.com/shivamb/netflix-shows
     
     
  Reason: the queues on some of these sites really suck and are broken
