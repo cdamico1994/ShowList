@@ -1,0 +1,13 @@
+Author: crdamico1994@gmail.com
+Description: Practice Angular based project to implement Observables, Monorepo, Web Scraping and potentially AWS
+    * Leverage angular storybook: https://storybook.js.org/tutorials/intro-to-storybook/angular/en/get-started/
+    * Expand upon media based watchlists/queues (Netflix, Funimation, MAL, etc.)
+    * Link to show on relevant platform that can be opened on mobile to go directly to app?
+    * Sync with platform watch history (will involve hacky websraping probably)
+    * Search functionality, separated by platform and further by show (specific episode will be noted and link will go there)
+    * Ability to archive/unarchive completed shows manually (seperate section for watch history)
+    * Ability to add, remove, edit items on the Queue. Lookup media titles on MAL, IMDB, or specific platform? When adding a show maybe need to identify platform first
+    
+    
+ Reason: the queues on some of these sites really suck and are broken
+    
